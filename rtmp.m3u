@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 ,凤凰卫视中文台
+pipe://ffmpeg -re -i rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw -bsf:v h264_mp4toannexb -vcodec libx264 -acodec copy -f mpegts pipe:1
+#EXTINF:-1 ,凤凰卫视资讯台
+pipe://ffmpeg -re -i rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx -bsf:v h264_mp4toannexb -vcodec libx264 -acodec copy -f mpegts pipe:1
+#EXTINF:-1 ,凤凰卫视电影台
+pipe://ffmpeg -re -i rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy -bsf:v h264_mp4toannexb -vcodec libx264 -acodec copy -f mpegts pipe:1
+#EXTINF:-1 ,星空卫视
+pipe://ffmpeg -re -i rtmp://ivi.bupt.edu.cn:1935/livetv/startv -bsf:v h264_mp4toannexb -vcodec libx264 -acodec copy -f mpegts pipe:1
+#EXTINF:-1 ,探索频道
+pipe://ffmpeg -re -i rtmp://ivi.bupt.edu.cn:1935/livetv/discovery -bsf:v h264_mp4toannexb -vcodec libx264 -acodec copy -f mpegts pipe:1
+#EXTINF:-1 ,国家地理频道
+pipe://ffmpeg -re -i rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo -bsf:v h264_mp4toannexb -vcodec libx264 -acodec copy -f mpegts pipe:1
+#EXTINF:-1 ,CHC高清电影
+pipe://ffmpeg -re -i rtmp://ivi.bupt.edu.cn:1935/livetv/chchd -bsf:v h264_mp4toannexb -vcodec libx264 -acodec copy -f mpegts pipe:1
+#EXTINF:-1 ,CHC家庭影院
+pipe://ffmpeg -re -i rtmp://ivi.bupt.edu.cn:1935/livetv/chctv -bsf:v h264_mp4toannexb -vcodec libx264 -acodec copy -f mpegts pipe:1
+#EXTINF:-1 ,CHC动作电影
+pipe://ffmpeg -re -i rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv -bsf:v h264_mp4toannexb -vcodec libx264 -acodec copy -f mpegts pipe:1
