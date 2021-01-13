@@ -9,30 +9,6 @@ http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 http://61.244.22.4/ch2/ch2.live/chunklist_w861342563.m3u8
 #EXTINF:-1 ,澳亚卫视
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=192&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,博斯魅力
-http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 ,点掌财经
-http://cclive2.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 ,TVB财经资讯
-http://tv.sason.xyz/proxy/tvb.php?id=cj
-#EXTINF:-1 ,TVB翡翠台
-http://520574.xyz/dl/iptv.php?id=1
-#EXTINF:-1 ,TVB翡翠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
-#EXTINF:-1 ,TVB翡翠台
-http://61.238.6.49:8000/bysid/1
-#EXTINF:-1 ,TVB明珠台
-http://116.199.5.52:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 ",TVB明珠台
-http://61.238.6.49:8001/bysid/2.mpeg
-#EXTINF:-1  ,TVB Pearl
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12 
-#EXTINF:-1 ,TVB J2台
-http://61.238.6.49:8001/bysid/82
-#EXTINF:-1 ,耀财财经台
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 ,TVB新闻
-http://tv.sason.xyz/proxy/tvb.php?id=xw
 #EXTINF:-1 ,彭博财经台
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 ,亚旅卫视
@@ -115,45 +91,3 @@ http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/i
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 #EXTINF:-1 ,NHK WORLD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8 
-#EXTINF:-1 ,NHK华语视界
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
-#EXTINF:-1 ,NHK华语视界
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 ,韩国KCTV
-http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
-#EXTINF:-1 ,朝鲜中央台
-http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 ,韩国KTV 韩国电视
-http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8
-#EXTINF:-1 ,韩国阿里郎WORLD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
-#EXTINF:-1 ,韩国阿里郎
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 ,花花公子蒙古
-http://spacetv.in/stream/WUQP6BVK17/56.m3u8
-#EXTINF:-1 ,泰国DDTV
-http://203.156.63.20:1935/live/ddtv/playlist.m3u8
-#EXTINF:-1 ,美国Free IPTV
-http://stream.srg-ssr.ch/m/rsj/mp3_128
-#EXTINF:-1 ,美国July.12.2018
-http://stream.srg-ssr.ch/m/rsc_de/mp3_128
-#EXTINF:-1 ,美国World News
-http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
-#EXTINF:-1 ,美国Bloomberg TV Europe
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 ,美国360 North
-http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
-#EXTINF:-1 ,美国Bowie TV
-http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
-#EXTINF:-1 ,美国Buffalo TV
-http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
-#EXTINF:-1 ,美国Denver 8 TV
-http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
-#EXTINF:-1 ,美国Fox News Talk Radio
-http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-#EXTINF:-1 ,美国本土CBS 4 News (Indianapolis)
-http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
-#EXTINF:-1 ,美国本土Channel 11 News WPXI (Pittsburgh)
-http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
-#EXTINF:-1 ,全美电视
-https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
