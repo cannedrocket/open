@@ -3,9 +3,9 @@
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1 ,CINEMAX
 http://136.243.177.164/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.discoverychannel.com.tw/images/logo/main_logo.png",求索科学
+#EXTINF:-1 ,求索科学
 http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://www.discoverychannel.com.tw/images/logo/main_logo.png",求索纪录
+#EXTINF:-1 ,求索纪录
 http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.discoverychannel.com.tw/images/logo/main_logo.png",求索生活
+#EXTINF:-1 ,求索生活
 http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
