@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4022",Discovery
+#EXTINF:-1 tvg-id="4022" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png",Discovery
 rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
-#EXTINF:-1 tvg-id="3262",国家地理频道
+#EXTINF:-1 tvg-id="3262" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NationalGeographic_taiwan.png",国家地理频道
 rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
