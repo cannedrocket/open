@@ -1,11 +1,15 @@
 #EXTM3U
-#EXTINF:-1 ,CNN
-https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
-#EXTINF:-1 ,HBO3
-http://136.243.177.164/HBO3/playlist.m3u8
-#EXTINF:-1 ,HBO2
-http://136.243.177.164/HBO2/playlist.m3u8
 #EXTINF:-1 ,HBO
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1 ,CINEMAX
 http://136.243.177.164/CINEMAX/index.m3u8
+#EXTINF:-1 ,求索科学
+http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,求索科学
+http://125.210.152.18:9090/live/QSKX_1200.m3u8
+#EXTINF:-1 ,求索纪录
+http://125.210.152.18:9090/live/QSJLHD_H265.m3u8
+#EXTINF:-1 ,求索动物
+http://125.210.152.18:9090/live/QSDW_1200.m3u8
+#EXTINF:-1 ,求索生活
+http://125.210.152.18:9090/live/QSSH_1200.m3u8
