@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 ,HBO
-http://136.243.177.164/HBO/playlist.m3u8
+#http://136.243.177.164/HBO/playlist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 ,CINEMAX
 http://136.243.177.164/CINEMAX/index.m3u8
 #EXTINF:-1 ,求索科学
